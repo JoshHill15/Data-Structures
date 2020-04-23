@@ -158,3 +158,4 @@ class DoublyLinkedList:
             current = current.next
         # return max found
         return max
+
